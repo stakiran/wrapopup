@@ -1,6 +1,8 @@
 # Wrapopup
 ポップアップメニューによる GUI ラッパーを作るための AutoHotkey テンプレートです。
 
+![gui_menu_wrapper_with_autohotkey](https://user-images.githubusercontent.com/23325839/39992829-fa7467ca-57ae-11e8-90ee-b27f082179c9.jpg)
+
 ## Q: GUI ラッパー？
 各種操作はコマンドを叩いて行うかと思いますが、それが面倒くさい時もあります。そんな時に GUI で、たとえばポップアップメニューで操作を一覧表示して、選択するだけで実行できるようにすると楽です。
 
